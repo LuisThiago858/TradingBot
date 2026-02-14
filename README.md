@@ -95,7 +95,7 @@ TradingBot/
 
 ### 1) Clonar o repositório
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/LuisThiago858/TradingBot.git
 cd TradingBot
 ```
 
